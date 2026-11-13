@@ -13,7 +13,7 @@ admission records from May 2019 to May 2024.
 ## Interactive dashboard
 
 [Explore the dashboard on Tableau Public](https://public.tableau.com/app/profile/dilip.rajpurohit1346/viz/HealthcareAnalyticsDashboard_17808326877770/Dashboard1)
-
+![Healthcare Analytics Dashboard screenshot](healthcare-dashboard.png)
 ## Data note
 
 The dataset is synthetic. The dashboard demonstrates exploratory analysis
